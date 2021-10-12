@@ -1,6 +1,6 @@
 # flutter_todo_app
 
-A new Flutter project.
+flutter todo app with Django Rest Framework back-end
 
 ## Getting Started
 

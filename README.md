@@ -1,6 +1,15 @@
 # flutter_todo_app
 
-flutter todo app with Django Rest Framework back-end
+flutter todo app with Django Rest Framework back-end.
+
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/24388337/138984204-df7d14a7-366f-4372-8d6e-aa97f9dbc3d2.PNG" height="400"/> 
+  <img src="https://user-images.githubusercontent.com/24388337/138983607-ce6b4893-93fe-4b07-9c22-c8329b72f2ff.png"  height="400"/>
+  <img src="https://user-images.githubusercontent.com/24388337/138984126-f0515029-5699-4b05-9e78-19a750036e3d.PNG"  height="400"/>
+</p>
+
+
+
 
 ## Getting Started
 
